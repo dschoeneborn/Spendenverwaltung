@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1359371728 source:c:\users\dennis\desktop\spendenverwaltung\main.c
+	<stdio.h>
+	<stdlib.h>
+	"spenden_functions.h"
+
+1359371705 source:c:\users\dennis\desktop\spendenverwaltung\spenden_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"spenden_functions.h"
+
+1359371629 c:\users\dennis\desktop\spendenverwaltung\spenden_functions.h
+
+1359371728 source:\\psf\home\documents\schule\prog\mittelstufe\spendenverwaltung\main.c
+	<stdio.h>
+	<stdlib.h>
+	"spenden_functions.h"
+
+1359371629 \\psf\home\documents\schule\prog\mittelstufe\spendenverwaltung\spenden_functions.h
+
+1359376271 source:\\psf\home\documents\schule\prog\mittelstufe\spendenverwaltung\spenden_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"spenden_functions.h"
+
